@@ -1,0 +1,8 @@
+matplotlib
+numpy
+pandas
+pytorch-metric-learning
+scikit-learn
+torch
+torchvision
+tqdm
